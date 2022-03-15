@@ -14,7 +14,7 @@
     {
         steps
         {
-            sh 'netstat-plunt'
+            sh 'netstat -plunt'
         }
      }
          stage('cpu')
