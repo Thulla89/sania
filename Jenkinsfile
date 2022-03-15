@@ -21,7 +21,7 @@
     {
         steps
         {
-            sh 'top'
+            sh 'top -h'
         }
      }
      
